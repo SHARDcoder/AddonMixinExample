@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "compatibilityLevel": "JAVA_8",
+  //Mixins package
+  "package": "me.shardcoder.addon.mixins",
+  "verbose": true,
+  //The names (in a list) of all of the files in the mixins package
+  "client": [
+    "MixinExample"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name":"Mixin Example",
+  "version":"1.0.0",
+  "mainClass":"me.shardcoder.addon.AddonExample",
+  //your mixins.whatever.json file name
+  "mixinConfigs": [
+    "mixins.mixinexample.json"
+  ],
+  "desc":"An example of how to use mixins"
+}
